@@ -2875,7 +2875,7 @@
         }
 
         // ИЗМЕНЕНО: прямой асинхронный запрос к Groq API (без бэкенда)
-        const GROQ_ENDPOINT = 'https://api.groq.com/openai/v1/chat/completions';
+        const GROQ_ENDPOINT = 'https://corsproxy.io/?https://api.groq.com/openai/v1/chat/completions';
         const GROQ_MODEL = 'llama-3.1-8b-instant';
 
         async function sendChatMessage() {
