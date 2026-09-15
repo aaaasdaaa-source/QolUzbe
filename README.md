@@ -1,2 +1,2 @@
-# zhanashyrs_repository
-zhanashyrs repository
+# QolUzbe_repository
+QolUzbe repository
